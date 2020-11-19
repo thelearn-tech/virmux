@@ -1,3 +1,4 @@
+pkg install figlet
 clear
 printf '\033[36m';echo script by thelearn-tech
 printf '\033[32m';echo wellcome
