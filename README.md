@@ -10,7 +10,9 @@ virus
 
 ***cd virmux***
 
-***sh virmux.sh***
+***chmod +x virmux.sh***
+
+***./virmux***
 
 # Warning 
 If you copy don't forget to give me credit 
